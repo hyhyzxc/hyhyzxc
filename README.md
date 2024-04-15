@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a penultimate Computer Science Student (Highest Distinction) in Nanyang Technological University.
+- Passionate in creating technologies that can add value to people's lives.
+- 📫 How to reach me: https://www.linkedin.com/in/goh-hong-yi-369053229/
+
 <!--
 **hyhyzxc/hyhyzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
