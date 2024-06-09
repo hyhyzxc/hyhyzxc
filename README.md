@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a penultimate Computer Science Student (Highest Distinction) in Nanyang Technological University.
+- I'm a penultimate Computer Science Student in Nanyang Technological University.
 - Passionate in creating technologies that can add value to people's lives.
 - Connect with me:
   <br>
