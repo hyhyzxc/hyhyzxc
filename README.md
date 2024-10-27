@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/goh-hong-yi-369053229/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="30" height="auto"/>
   </a>
-[![Hong Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyhyzxc)](https://github.com/anuraghazra/github-readme-stats)
+- [![Hong Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyhyzxc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
